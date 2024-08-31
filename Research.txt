@@ -1,0 +1,32 @@
+### Statistics on High School Volunteering
+1. **Volunteering Rates**: Nearly 2.8 million or 28.5% of U.S. high schoolers aged 15 and over annually volunteered almost 237 million total volunteer hours³. According to DoSomething.org, 34% of high school students regularly volunteer (at least once a month).
+2. **Impact of Volunteering**: Volunteering offers numerous benefits for teens, including building community, increasing socializing, improving mental health, increasing self-esteem, meeting deadlines, dressing professionally, working with colleagues, and getting to work on time.
+3. **Long-term Benefits**: Teens who volunteer regularly experience a significant reduction in risky behaviors, such as substance abuse. Additionally, early engagement in volunteerism paves the way for numerous long-term benefits, including a robust work ethic and continued support for charitable causes into adulthood.
+
+### Features of Successful Volunteering Apps
+1. **Comprehensive Onboarding**: Look for organizations that offer comprehensive virtual onboarding processes and provide dedicated apps or platforms for seamless communication, task management, and coordination⁷.
+2. **Volunteer Management**: A well-designed volunteer app helps nonprofits track volunteer impact, deliver important information, get insights on the success of their program, and much more, all in one system⁶.
+3. **Engagement Tools**: Volunteer apps help widen your reach to new audiences, stay in touch with current volunteers, and build stronger relationships through a positive volunteer experience⁶.
+
+### Benefits of Volunteering for Teenagers
+1. **Personal Growth**: Volunteering helps teens develop essential life skills, including respect for others, patience, leadership abilities, and a profound understanding of diverse cultures and communities.
+2. **Academic and Civic Engagement**: Engaged volunteers typically perform better academically, are more likely to graduate, and actively participate in civic activities like voting.
+3. **Future Opportunities**: Volunteering can help teens explore potential career paths and acquire real-world skills that will benefit them in their future careers.
+
+Incorporating these insights into an app of a certain kind can help make it an extremely valuable resource for high school students as well as other age ranges (but specifically pertaining to them). 
+
+Sources:
+High School Students and Volunteerism: The Stats You Need to Know. https://njhsvolunteers.com/high-school-students-and-volunteerism-the-stats-you-need-to-know/.
+The Benefits of Volunteering for Teens? Feeling Good and More. https://yourteenmag.com/family-life/communication/benefits-of-volunteering.
+The Benefits of Teen Volunteerism: Transforming Lives and Communities. https://www.nvfs.org/benefits-of-teen-volunteerism/.
+18 benefits of volunteering to get you inspired - Rosterfy. https://www.rosterfy.com/blog/18-benefits-of-volunteering-to-get-you-inspired.
+The 9 Best Volunteer Apps for Better Engagement in 2024 - Bloomerang. https://bloomerang.co/blog/best-volunteer-apps/.
+Volunteering in America: New U.S. Census Bureau, AmeriCorps Research. https://www.census.gov/library/stories/2023/01/volunteering-and-civic-life-in-america.html.
+Volunteer or Voluntold: Does Required Service Benefit Youth?. https://www.psychologytoday.com/us/blog/civically-engaged/201901/volunteer-or-voluntold-does-required-service-benefit-youth.
+STATISTICS IN BRIEF. https://nces.ed.gov/pubs2004/2004365.pdf.
+Student Volunteer demographics and statistics in the US - Zippia. https://www.zippia.com/student-volunteer-jobs/demographics/.
+Best Volunteer Management Software: 25 Tools for Nonprofits. https://www.galaxydigital.com/blog/volunteer-management-software.
+8 Benefits of Mobile Apps for Nonprofit Volunteer Programs - Paybee. https://w.paybee.io/post/8-benefits-of-mobile-apps-for-nonprofit-volunteer-programs.
+Top 24 Volunteer Ideas for Teens | YMCA - YMCA of the USA. https://www.ymca.org/ystories/youth-teen-development/24-volunteer-ideas-for-teens.
+Volunteering and Community Service for Teen Development. https://teencoachacademy.com/blog/benefits-of-volunteering-teen-development/.
+Why Should Teens Volunteer? Exploring the Amazing Benefits. https://www.gviusa.com/blog/smb-why-should-teens-volunteer-exploring-the-amazing-benefits/.
