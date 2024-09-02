@@ -1,13 +1,9 @@
-// Got to import libraries as necessary!
-import React, { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
-
 // Main app component
 const App = () => {
   const [volunteerOpportunities, setVolunteerOpportunities] = useState([]);
   const [hours, setHours] = useState(0);
 
-  // Fetch volunteer opportunities from API or database (will see depending on options later on ...) 
+  // Fetch volunteer opportunities from API or database
   useEffect(() => {
     fetch('/api/volunteer-opportunities')
       .then(response => response.json())
@@ -18,6 +14,12 @@ const App = () => {
   // Handling volunteer hours
   const handleHours = (event) => {
     setHours(event.target.value);
+  };
+
+  // Log hours
+  const logHours = () => {
+    const totalHoursElement = document.getElementById('total-hours');
+    totalHoursElement.textContent = hours;
   };
 
   return (
@@ -37,6 +39,7 @@ const App = () => {
           value={hours}
           onChange={handleHours}
         />
+        <button onClick={logHours}>Log Hours</button>
       </div>
       <p>Total Hours: {hours}</p>
     </div>
