@@ -36,3 +36,4 @@ SELECT * FROM queries;
 
 -- ^^^ Essentially basics from what I know, will use these basic 'commands' to implement functionality and keep everything going... 
 -- Also, gotta integrate this db w/React Application, so from what I've heard, we need a backend server... handles db operations and communicates w/React frontend. 
+
