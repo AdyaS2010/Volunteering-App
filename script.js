@@ -1,25 +1,30 @@
 // Main app component
 const App = () => {
   const [volunteerOpportunities, setVolunteerOpportunities] = useState([]);
-  const [hours, setHours] = useState(0);
+  const [volunteerHours, setVolunteerHours] = useState(0);
 
   // Fetch volunteer opportunities from API or database
   useEffect(() => {
     fetch('/api/volunteer-opportunities')
-      .then(response => response.json())
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
       .then(data => setVolunteerOpportunities(data))
       .catch(error => console.error('Error fetching data:', error));
   }, []);
 
   // Handling volunteer hours
   const handleHours = (event) => {
-    setHours(event.target.value);
+    setVolunteerHours(event.target.value);
   };
 
   // Log hours
   const logHours = () => {
     const totalHoursElement = document.getElementById('total-hours');
-    totalHoursElement.textContent = hours;
+    totalHoursElement.textContent = volunteerHours;
   };
 
   return (
@@ -36,12 +41,13 @@ const App = () => {
         <input
           type="number"
           id="hours"
-          value={hours}
+          value={volunteerHours}
           onChange={handleHours}
+          aria-label="Enter Volunteer Hours"
         />
         <button onClick={logHours}>Log Hours</button>
       </div>
-      <p>Total Hours: {hours}</p>
+      <p id="total-hours">Total Hours: {volunteerHours}</p>
     </div>
   );
 };
