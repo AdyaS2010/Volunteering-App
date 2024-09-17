@@ -3,6 +3,12 @@
 ## Overview
 Our Volunteering App connects high school students, especially those in the National Honor Society (NHS), with volunteering opportunities tailored to their interests. Built using React on the Replit platform, this app aims to make it easier for students to find and participate in meaningful volunteer work suitable for people in any age group, but is specifically directed towards High Schoolers as an initiative to volunteer, keep track/log of hours, and have fun while doing so!
 
+### Link, Deployment, Image
+https://adyas2010.github.io/Volunteering-App/ -> In development (iterative process, of course, as is everything, developing as and when possible! :D)
+
+![image](https://github.com/user-attachments/assets/7d05ce7d-8d85-4c42-a035-f05866ae6d62)
+*Image of site in progress (it's evident that there is still a lot of work to do and progress to make/be made, so will definitely do when I get the opportunity!)!!!*
+
 ## Features
 - **User Registration and Login**: Secure authentication for students and organizations.
 - **Profile Management**: Users can create and update their profiles, including interests and skills.
